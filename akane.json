@@ -1,0 +1,37 @@
+{
+  "title": "Oshigoto desu yo! Akane-san",
+  "description": "A surreal workspace 4-koma starring the programmer Akane who's constantly haunted by deadlines, and the kouhai salesperson Yamagami who works hard for her attention!",
+  "artist": "Kimura Matsuri",
+  "author": "Kimura Matsuri",
+  "cover": "https://i.imgur.com/RFnIv3H.jpg",
+  "chapters": {
+    "1": {
+      "title": "Akane and Yamagami",
+      "groups": {
+        "cyclopropene": "/proxy/api/imgur/chapter/bZ38BUB/"
+      },
+      "last_updated": "1622330642"
+    },
+    "2": {
+      "title": "Breakfast",
+      "groups": {
+        "cyclopropene": "/proxy/api/imgur/chapter/yIIxMQq/"
+      },
+      "last_updated": "1622330642"
+    },
+    "3": {
+      "title": "New Employee",
+      "groups": {
+        "cyclopropene": "/proxy/api/imgur/chapter/RtWsnDH/"
+      },
+      "last_updated": "1622330642"
+    },
+    "4": {
+      "title": "The Two of Us",
+      "groups": {
+        "cyclopropene": "/proxy/api/imgur/chapter/utK9zvv/"
+      },
+      "last_updated": "1622330642"
+    }
+  }
+}
